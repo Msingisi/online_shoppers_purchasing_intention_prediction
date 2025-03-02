@@ -2,6 +2,8 @@
 
 This project analyzes the **Online Shoppers Purchasing Intention** dataset from the UCI Machine Learning Repository. The dataset contains information about visitors to an online shopping website and aims to predict whether a visitor will make a purchase based on various features.
 
+The project used multiple machine learning models to predict purchasing intention, including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting. The Gradient Boosting and Random Forest models performed the best, achieving the highest accuracy of 93.58% after balancing the dataset using SMOTE with Tomek Links
+
 ## Dataset
 
 - **Source**: UCI Machine Learning Repository
